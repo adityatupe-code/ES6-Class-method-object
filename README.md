@@ -1,0 +1,1 @@
+# ES6-Class-method-object
